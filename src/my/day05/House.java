@@ -1,4 +1,4 @@
-package my.day04;
+package my.day05;
 
 public class House {
 	
